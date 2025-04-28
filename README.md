@@ -1,6 +1,10 @@
 ### 안녕하세요 성장하는 개발자 김충영입니다.👋
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/chungyo?background-id=5"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chungyo&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/chungyo"
+  width="600"
+  height="300"
+/>
 </a>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=chungyo&show_icons=true&hide_border=true)](https://github.com/shinplest)
