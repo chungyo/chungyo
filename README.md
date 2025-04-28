@@ -1,4 +1,7 @@
 ### 안녕하세요 성장하는 개발자 김충영입니다.👋
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/chungyo"/>
+</a>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=chungyo&show_icons=true&hide_border=true)](https://github.com/shinplest)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungyo&layout=compact)](https://github.com/chungyo)
@@ -14,6 +17,3 @@
 <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/> 
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/chungyo"/>
-</a>
