@@ -1,21 +1,4 @@
 ### 안녕하세요 성장하는 개발자 김충영입니다.👋
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/chungyo"/>
-</a>
-<!--
-**chungyo/chungyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=chungyo&show_icons=true&hide_border=true)](https://github.com/shinplest)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungyo&layout=compact)](https://github.com/chungyo)
@@ -31,3 +14,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/> 
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/chungyo"/>
+</a>
