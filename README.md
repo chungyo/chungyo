@@ -1,7 +1,7 @@
 ### 안녕하세요 성장하는 개발자 김충영입니다.👋
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chungyo&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/chungyo?background-id=2"
+  src="https://render.gitanimals.org/farms/chungyo?"
   width="600"
   height="300"
 />
