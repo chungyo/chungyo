@@ -6,9 +6,7 @@
   height="300"
 />
 </a>
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=chungyo&show_icons=true&hide_border=true)](https://github.com/shinplest)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungyo&layout=compact)](https://github.com/chungyo)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chungyo)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
