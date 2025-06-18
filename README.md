@@ -1,4 +1,4 @@
-### 안녕하세요 성장하는 개발자 김충영입니다.👋
+### 소통에 목마른 개발자 김충영입니다.👋
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chungyo&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/chungyo?"
