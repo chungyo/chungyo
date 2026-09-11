@@ -42,13 +42,26 @@ React 훅의 버그를 재현하고, 수정과 회귀 테스트에 기여했습�
 
 ## Community
 
-**SOPT · 38기 YB**
+<a href="https://www.sopt.org/">
+  <img src="https://www.sopt.org/android-icon-192x192.png" width="28" height="28" alt="SOPT" align="absmiddle" />
+  <strong>SOPT</strong>
+</a>
 
-**kakao x goorm 구름톤 유니브**
+대학생 연합 IT 벤처 창업 동아리  
+**38기 YB** · 2026.03 참여
 
-- 3기 운영진 · 4기 교내 대표 및 서울 동부 지부 대표
-- 14개 대학 연합 프로젝트 **성장톤** 기획
-- 첫 프로젝트에 도전하는 참가자도 함께 개발할 수 있도록 팀 구성, 협업 기준과 발표회 운영안을 마련했습니다.
+<br />
+
+<a href="https://9oormthon.university/">
+  <img src="https://9oormthon.university/favicon/favicon-96x96.png" width="28" height="28" alt="구름톤 유니브" align="absmiddle" />
+  <strong>구름톤 유니브</strong>
+</a>
+
+**3기 운영진 → 4기 교내 대표 및 서울 동부 지부 대표**  
+2024.09 – 2025.06
+
+- 14개 대학 연합 프로젝트 **성장톤** 기획 · 2025.05
+- 첫 프로젝트에 도전하는 참가자들을 위해 팀 구성과 협업 기준을 마련하고, 성과 발표회를 준비했습니다.
 
 ## Tech & Tools
 
