@@ -1,89 +1,71 @@
-# 안녕하세요! 제품과 팀의 일하는 방식을 함께 고민하는 개발자 김충영입니다 👋
+# 안녕하세요, 김충영입니다 👋
 
-PlaidLabs를 함께 창업해 제품 개발과 PM 업무를 맡고 있습니다. 무엇을 만들지 구체화하는 일부터 직접 구현하고 검증하는 일까지 함께합니다.
+**직접 개발해 온 경험을 바탕으로, 고객의 문제를 구체화하고 제품으로 만듭니다.**
 
-요즘은 **AI와 함께 일하는 방법**에 관심이 많습니다. 반복되는 작업을 도구로 만들고, 팀이 AI를 활용하면서도 설계와 검증의 기준을 공유할 수 있는 환경을 만들어가고 있습니다.
+PlaidLabs를 함께 창업해 프론트엔드 개발과 PM 업무를 맡고 있습니다. 고객과 요구사항·일정·개발 범위를 조율하고, React·TypeScript로 직접 구현합니다. 개발 중 드러난 예외와 제약은 다시 기획에 반영합니다.
+
+요즘은 AI를 업무에 어떻게 써야 도움이 될지 고민하고 있습니다. 개발에 필요한 맥락을 문서로 연결하고, 반복되는 확인 작업은 자동화하며, 제가 쓰면서 불편했던 점을 하나씩 바꾸고 있습니다.
+
+[Portfolio](https://chungyo.github.io/) · [Email](mailto:chungyoung.kim98@gmail.com)
 
 ## PlaidLabs
 
-**공동창업 · 제품 개발 & PM**
+**공동창업 · Frontend Development & Product Management** · 2025.06 – 현재
 
-고객의 요구사항을 기능과 정책으로 정리하고, React·TypeScript 기반 웹 제품을 개발합니다. 개발 과정에서 드러나는 예외 상황과 기술적 제약을 기획에 반영하며 제품을 구체화하고 있습니다.
+- **리더스클럽 예약 관리 서비스** — 현장 예약과 온라인 예약을 따로 확인하던 업무를 한 화면에서 처리할 수 있도록 만들었습니다. 기획·화면 구성·UI 개발·API 연동을 맡아 약 2주 만에 첫 사용 가능한 버전을 구현했습니다.
 
-- 고객의 요청과 개발 과정에서 드러난 제약을 함께 검토하고, 팀과 구현 범위와 세부 정책을 조율했습니다.
-- 여러 제품에서 사용할 디자인 시스템을 개발하고 npm 패키지로 배포했습니다.
-- 이미지 용량과 로딩 방식을 개선하고, UI와 상태 처리 과정에서 발생하는 문제를 해결해 왔습니다.
-- AI 개발 지침과 검증 도구를 구성하고, 코드 기반 API 연동 현황을 PR에서 확인할 수 있도록 보고 과정을 자동화했습니다.
+- **심케어 3.0 · 1minute PM** — 고객 미팅과 일정·범위 조율을 맡았습니다. 심케어에서는 고객 요구사항, 기능·화면 명세, 회의 결정을 GitHub에 연결해 개발자가 구현에 필요한 정책과 예외 조건을 찾아볼 수 있도록 정리했습니다. 현재 심케어는 개발·검증을 진행하고 있습니다.
 
-## Open Source
+- **API 연동 현황 자동화** — 심케어의 API 명세와 프론트엔드 코드를 대조해 연동 현황을 집계하고, GitHub CI와 Confluence로 공유하도록 구성했습니다. 코드상 연동 여부와 실제 API 검증 여부를 구분해 확인할 수 있도록 했습니다.
 
-React 훅의 버그를 재현하고, 수정과 회귀 테스트에 기여했습니다.
-
-| 기여 | PR |
-| --- | --- |
-| `useStorageState`의 저장소 전체 삭제 시 탭 간 상태 동기화 수정 | [#482 · Merged](https://github.com/toss/react-simplikit/pull/482) |
-| `useRefEffect`의 의존성 변경 시 콜백 갱신 문제 수정 | [#483 · Merged](https://github.com/toss/react-simplikit/pull/483) |
+- **공통 UI 개발** — 여러 제품에서 사용할 디자인 시스템을 개발하고 npm 패키지로 배포했습니다. 이미지 용량과 로딩 방식을 개선하고, UI와 상태 처리 과정에서 발생하는 문제를 해결해 왔습니다.
 
 ## Projects
 
 ### HASHI
 
-**일본 맛집 발견·예약 서비스**
+**일본 맛집 발견·예약 서비스 · 프론트엔드 개발**
 
 예약·포인트·관리자 기능을 개발하고, 중복 요청과 인증 복구 흐름을 개선했습니다.
 
-팀이 AI와 같은 기준으로 작업할 수 있도록 컴포넌트·명세 생성기와 API 연동·검증 스킬을 구성했습니다. 실제 개발과 코드리뷰에서 발견한 문제를 도구와 작업 기준에 반영하고 있습니다.
+기존 코드 생성 스크립트를 확장해 컴포넌트와 명세·Storybook 파일을 함께 생성하도록 했습니다. API 연동과 검증 절차를 AI 작업 지침으로 정리하고, 실제 개발과 코드리뷰에서 발견한 문제를 반영하고 있습니다.
 
-[서비스](https://www.hashi.kr/) · [컴포넌트 생성기](https://github.com/TEAM-HASHI/HASHI-CLIENT/pull/23) · [예약 기능](https://github.com/TEAM-HASHI/HASHI-CLIENT/pull/94) · [코드리뷰](https://github.com/TEAM-HASHI/HASHI-CLIENT/pull/91#discussion_r3567665980)
+[서비스](https://www.hashi.kr/) · [생성기 개선](https://github.com/TEAM-HASHI/HASHI-CLIENT/pull/23) · [예약 기능](https://github.com/TEAM-HASHI/HASHI-CLIENT/pull/94) · [코드리뷰](https://github.com/TEAM-HASHI/HASHI-CLIENT/pull/91#discussion_r3567665980)
 
-### Personal LLM Wiki
+### LLM Wiki
 
-조사한 자료와 개발 중 내린 결정을 Obsidian에 출처와 함께 기록하고 있습니다. 관련 내용을 서로 연결해 두고, 다음 조사나 AI와의 개발 작업에서 다시 활용하는 개인 지식 시스템을 만들고 있습니다.
+**업무 기록과 일정을 연결하는 개인 지식 시스템**
+
+따로 일기를 쓰지 않아도 일상과 업무 기록을 남기고, 예전에 내린 결정을 다시 찾고 싶어 만들었습니다. 조사한 자료와 업무 기록을 Obsidian에 출처와 함께 모으고, 원본·일일 기록·정리된 지식을 나눠 연결합니다.
+
+Google Calendar·Tasks와 Telegram을 연동해 아침과 저녁에 일정을 확인하고 대화할 수 있도록 구성했습니다. 실제로 과거 업무 결정을 다시 찾고 하루 일정을 챙기는 데 사용하고 있습니다.
+
+## Open Source
+
+**[Toss · react-simplikit](https://github.com/toss/react-simplikit)**
+
+React 훅의 버그를 재현하고, 수정과 회귀 테스트에 기여했습니다.
+
+| 기여 | PR |
+| --- | --- |
+| `useStorageState` — 다른 탭에서 저장소 전체 삭제 시 상태가 동기화되지 않는 문제 수정 | [#482 · Merged](https://github.com/toss/react-simplikit/pull/482) |
+| `useRefEffect` — 의존성 변경 시 갱신된 콜백이 반영되지 않는 문제 수정 | [#483 · Merged](https://github.com/toss/react-simplikit/pull/483) |
 
 ## Community
 
-<a href="https://www.sopt.org/">
-  <img src="https://www.sopt.org/android-icon-192x192.png" width="28" height="28" alt="SOPT" align="absmiddle" />
-  <strong>SOPT</strong>
-</a>
+**[SOPT](https://www.sopt.org/) · 38기 YB** · 2026.03 참여
 
-대학생 연합 IT 벤처 창업 동아리  
-**38기 YB** · 2026.03 참여
+대학생 연합 IT 벤처 창업 동아리에서 서비스 개발과 팀 프로젝트에 참여했습니다.
 
-<br />
+**[구름톤 유니브](https://9oormthon.university/)** · 2024.09 – 2025.06
 
-<a href="https://9oormthon.university/">
-  <img src="https://9oormthon.university/favicon/favicon-96x96.png" width="28" height="28" alt="구름톤 유니브" align="absmiddle" />
-  <strong>구름톤 유니브</strong>
-</a>
-
-**3기 운영진 → 4기 교내 대표 및 서울 동부 지부 대표**  
-2024.09 – 2025.06
-
-- 14개 대학 연합 프로젝트 **성장톤** 기획 · 2025.05
-- 첫 프로젝트에 도전하는 참가자들을 위해 팀 구성과 협업 기준을 마련하고, 성과 발표회를 준비했습니다.
+3기 운영진을 거쳐 4기 교내 대표 및 서울 동부 지부 대표로 활동했습니다. 14개 대학 연합 프로젝트 **성장톤**을 기획하고, 첫 프로젝트에 도전하는 참가자들을 위해 팀 구성과 협업 기준, 성과 발표회를 준비했습니다.
 
 ## Tech & Tools
 
-**Development**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-
-**Testing**
-
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
-
-**AI & Knowledge**
-
-![Codex](https://img.shields.io/badge/Codex-181717?style=flat-square)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
-
-AI와 함께 요구사항을 정리하고 코드를 작성·검증합니다. 이 과정에서 얻은 경험을 팀이 함께 쓸 수 있는 도구와 작업 방식으로 만들고 있습니다.
+| 분야 | 주로 사용하는 기술과 도구 |
+| --- | --- |
+| Development | TypeScript, JavaScript, React, Next.js, React Native, TanStack Query |
+| Testing | Vitest, Testing Library, Playwright |
+| Collaboration | GitHub, Jira, Confluence, Slack |
+| AI & Knowledge | Codex, Claude Code, Obsidian |
